@@ -1,6 +1,6 @@
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "Data", menuName = "Inventory/List", order = 1)]
+[CreateAssetMenu()]
 public class ColorSettings : ScriptableObject
 {
     public Color planetColor;
